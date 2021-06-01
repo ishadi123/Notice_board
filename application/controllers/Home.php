@@ -22,4 +22,14 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('home_page');
 	}
+
+	public function login()
+	{
+		$this->load->view('login_page.php');
+	}
+
+	public function register()
+	{
+		$this->load->view('register_page');
+	}
 }
