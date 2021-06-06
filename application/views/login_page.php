@@ -146,7 +146,7 @@
 </head>
 <body>
 	<div class="center">
-		<h1>Login</h1>
+		
 		
 			<form method="post">
 				<div class="txt_field">
